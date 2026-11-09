@@ -1,0 +1,27 @@
+{
+  "name": "systemflow-e2-return-fraud",
+  "version": "1.0.0",
+  "description": "Velocity profiling, seasonal festival window cross-referencing, and proactive policy enforcement (tamper tag & exchange-only gates).",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "fraud-detection",
+    "e-commerce",
+    "behavioral-scoring",
+    "risk-engine",
+    "trust-and-safety"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8",
+    "@types/node": "^22.10.1"
+  }
+}
