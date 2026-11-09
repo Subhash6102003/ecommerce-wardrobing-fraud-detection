@@ -1,5 +1,5 @@
 {
-  "name": "systemflow-e2-return-fraud",
+  "name": "ecommerce-wardrobing-fraud-detection",
   "version": "1.0.0",
   "description": "Velocity profiling, seasonal festival window cross-referencing, and proactive policy enforcement (tamper tag & exchange-only gates).",
   "main": "./dist/index.js",
